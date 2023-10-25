@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\bin\Debug\SecimProgramı.exe.config
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\bin\Debug\SecimProgramı.exe
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\bin\Debug\SecimProgramı.pdb
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.OyGiris.resources
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.frmGrafikler.resources
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.Properties.Resources.resources
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.exe
+C:\Users\asus\Desktop\gitHub Projeler\SecimProgramı\SecimProgramı\obj\Debug\SecimProgramı.pdb
